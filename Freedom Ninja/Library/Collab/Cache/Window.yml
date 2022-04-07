@@ -14,8 +14,65 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/MiniMapRenderTexture.renderTexture
+    - Assets/MiniMapRenderTexture.renderTexture.meta
+    - Assets/NinjaController/Editor/NinjaControllerEditor.cs
+    - Assets/NinjaController/Editor/PhysicsParamsContainerEditor.cs
+    - Assets/NinjaController/Scripts/DeathZone.cs
+    - Assets/NinjaController/Scripts/NinjaController.cs
+    - Assets/NinjaController/Scripts/PhysicsParams.cs
+    - Assets/NinjaController/Scripts/PhysicsParamsContainer.cs
+    - Assets/Scenes/MainMenu.unity
+    - Assets/Scenes/PracticeLevel.unity
+    - Assets/StarterAssets.meta
+    - Assets/StarterAssets/Mobile.meta
+    - Assets/StarterAssets/Mobile/Prefabs.meta
+    - Assets/StarterAssets/Mobile/Prefabs/CanvasInputs.meta
+    - Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_Joysticks.prefab
+    - Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_Joysticks.prefab.meta
+    - Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_TouchZones.prefab
+    - Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_TouchZones.prefab.meta
+    - Assets/StarterAssets/Mobile/Prefabs/EventSystem.meta
+    - Assets/StarterAssets/Mobile/Prefabs/EventSystem/UI_EventSystem.prefab
+    - Assets/StarterAssets/Mobile/Prefabs/EventSystem/UI_EventSystem.prefab.meta
+    - Assets/StarterAssets/Mobile/Prefabs/VirtualInputs.meta
+    - Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Button.prefab
+    - Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Button.prefab.meta
+    - Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Joystick.prefab
+    - Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Joystick.prefab.meta
+    - Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_TouchZone.prefab
+    - Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_TouchZone.prefab.meta
+    - Assets/StarterAssets/Mobile/Scripts.meta
+    - Assets/StarterAssets/Mobile/Scripts/CanvasInputs.meta
+    - Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs
+    - Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs.meta
+    - Assets/StarterAssets/Mobile/Scripts/Utilities.meta
+    - Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs
+    - Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs.meta
+    - Assets/StarterAssets/Mobile/Scripts/VirtualInputs.meta
+    - Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs
+    - Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs.meta
+    - Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs
+    - Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs.meta
+    - Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs
+    - Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs.meta
+    - Assets/StarterAssets/Mobile/UI.meta
+    - Assets/StarterAssets/Mobile/UI/UI_Circle_Bevel_Base.png
+    - Assets/StarterAssets/Mobile/UI/UI_Circle_Bevel_Base.png.meta
+    - Assets/StarterAssets/Mobile/UI/UI_Circle_Faded.png
+    - Assets/StarterAssets/Mobile/UI/UI_Circle_Faded.png.meta
+    - Assets/StarterAssets/Mobile/UI/UI_Icon_Jump.png
+    - Assets/StarterAssets/Mobile/UI/UI_Icon_Jump.png.meta
+    - Assets/StarterAssets/Mobile/UI/UI_Icon_Look.png
+    - Assets/StarterAssets/Mobile/UI/UI_Icon_Look.png.meta
+    - Assets/StarterAssets/Mobile/UI/UI_Icon_Move.png
+    - Assets/StarterAssets/Mobile/UI/UI_Icon_Move.png.meta
+    - Assets/StarterAssets/Mobile/UI/UI_Icon_Sprint.png
+    - Assets/StarterAssets/Mobile/UI/UI_Icon_Sprint.png.meta
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/UnityConnectSettings.asset
     - 
-    m_Values: 01
+    m_Values: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
