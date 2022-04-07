@@ -51,6 +51,8 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.RawImage
+    - UnityEngine.UI.Text
   sceneClasses:
     Assets/Scenes/MainMenu.unity:
     - Class: 1
@@ -138,6 +140,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
@@ -160,6 +164,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 1932}
     - Class: 114
       Script: {instanceID: 2084}
+    - Class: 114
+      Script: {instanceID: 2238}
+    - Class: 114
+      Script: {instanceID: 2410}
     - Class: 114
       Script: {instanceID: 2654}
     - Class: 114
@@ -815,4 +823,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MainMenu.unity
   - Assets/Scenes/PracticeLevel.unity
-  playerPath: D:/Freedom Ninja v.4/FreedomNinja.apk
+  playerPath: D:/Freedom Ninja v.4/FreedomNinjaV1.5.apk
