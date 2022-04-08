@@ -823,4 +823,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MainMenu.unity
   - Assets/Scenes/PracticeLevel.unity
-  playerPath: D:/Freedom Ninja v.4/FreedomNinjaV1.5.apk
+  playerPath: D:/Freedom Ninja v.4/FreedomNinjaV1.6.apk
