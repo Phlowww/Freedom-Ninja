@@ -7093,6 +7093,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 303120711}
+    - target: {fileID: 1466079774261304926, guid: 98d502bfbf558dc478e7c958e0ca240b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: RestartGamePractice
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 98d502bfbf558dc478e7c958e0ca240b, type: 3}
 --- !u!1001 &2223560529191536790
@@ -7263,6 +7267,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 303120711}
+    - target: {fileID: 2347380281468771099, guid: 03778f9f313b75246bcb3c8e8d449bb3, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: RestartGamePractice
+      objectReference: {fileID: 0}
     - target: {fileID: 6314107159932811254, guid: 03778f9f313b75246bcb3c8e8d449bb3, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -7275,6 +7283,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1973736484}
+    - target: {fileID: 7198358248556639935, guid: 03778f9f313b75246bcb3c8e8d449bb3, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: MainMenu
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 03778f9f313b75246bcb3c8e8d449bb3, type: 3}
 --- !u!1001 &4232440360364452493

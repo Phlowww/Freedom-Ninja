@@ -16,12 +16,16 @@ public class GameManager : MonoBehaviour
     {
         
     }
-    public void RestartGame()
+    public void RestartGamePractice()
     {
         SceneManager.LoadScene(1);
     }
     public void MainMenu()
     {
         SceneManager.LoadScene(0);
+    }
+    public void RestartGameLevel1()
+    {
+        SceneManager.LoadScene(2);
     }
 }
