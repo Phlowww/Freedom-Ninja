@@ -1,0 +1,24 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class WinZone : MonoBehaviour
+{
+    public GameObject winScreen;
+    public GameObject uiCamera;
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+
+        if (collision.tag == "Player")
+        {
+            Destroy(collision.gameObject);
+            winScreen.SetActive(true);
+            uiCamera.SetActive(true);
+        }
+
+        
+        
+    }
+
+
+}
